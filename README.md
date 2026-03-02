@@ -1,1 +1,1 @@
-# comp484-hw6-main
+pages: https://keanoaquino.github.io/comp484-hw6-main/
